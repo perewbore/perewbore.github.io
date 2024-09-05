@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perewbore.github.io/sitemap.html.gz
+Sitemap: https://perewbore.github.io/app/sitemap.html.gz
+Sitemap: https://perewbore.github.io/assets/sitemap.html.gz
+Sitemap: https://perewbore.github.io/css/sitemap.html.gz
+Sitemap: https://perewbore.github.io/includes/sitemap.html.gz
+Sitemap: https://perewbore.github.io/item/sitemap.html.gz
+Sitemap: https://perewbore.github.io/src/sitemap.html.gz
